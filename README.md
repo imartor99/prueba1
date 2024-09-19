@@ -13,12 +13,15 @@ Realizado por Ignacio Martinez en septiembre de 2024
 Hola soy Nacho y me encanta el futbol
 
 <details open>
+ 
 <summary>My top Aficiones</summary>
+ 
 | Rank | AFICIONES |
 |-----:|---------------|
 |     1| Deportes            |
 |     2| Automovilismo              |
 |     3| E-Sports              |
+
 </details>
 
 ---
