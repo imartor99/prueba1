@@ -1,0 +1,7 @@
+1.Inicio
+2.Leer BASE_MAYOR
+3.Leer BASE_MENOR
+4.Leer ALTURA
+5.AREA <-(BASE_MAYOR + BASE_MENOR ) * ALTURA / 2
+6.Mostrar AREA
+7.FIN
