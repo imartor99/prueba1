@@ -1,0 +1,4 @@
+INICIO
+LEER edad
+Si edad>=18 MOSTRAR "es mayor de edad" sino MOSTRAR "es menor de edad"
+FIN
