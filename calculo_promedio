@@ -1,0 +1,6 @@
+INICIO
+LEER calificacion
+REPETIR paso 1 hasta 10 veces
+SUMA todos valores de calificacion y dividir entre 10 -> promedio
+MOSTRAR promedio
+FIN
